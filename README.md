@@ -35,8 +35,15 @@
 
 ### 📊 GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1darshankumarsavsani-blip&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=1darshankumarsavsani-blip&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="GitHub stats">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Most commit language">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Repos per language">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="Productive time">
 </p>
 
 <p align="center">
