@@ -16,6 +16,7 @@
 - 🛠 I build small, fast tools that solve real problems
 - 🤖 Exploring **AI tools**, automation and creative tech
 - 🎵 I also make music: check my songs on YouTube as **savsanidarshankumar**
+- 🌐 Portfolio: https://1darshankumarsavsani-blip.github.io/
 - 📫 Reach me: **1darshankumarsavsani@gmail.com**
 
 ### 🚀 Featured projects
@@ -24,6 +25,23 @@
 |---|---|---|
 | [**Darshan File Manager**](https://github.com/1darshankumarsavsani-blip/Darshan-File-Manager) | Tiny Windows app that auto-organizes Downloads/Desktop: sort by type or extension, date folders, Auto mode, undo | C · Win32 |
 | [**Darshan File Manager for Android**](https://github.com/1darshankumarsavsani-blip/Darshan-File-Manager-Android) | Keeps your phone's Download folder clean, with background Auto mode | Java · Android |
+| [**Student Planner**](https://github.com/1darshankumarsavsani-blip/Student-Planner) | Offline Android app: exams, syllabus, study timer, notes (Gujarati + English) | Java · Android |
+| [**Khata Book**](https://github.com/1darshankumarsavsani-blip/Khata-Book) | Offline Android app: income/expense ledger and credit (udhar) | Java · Android |
+| [**Vishwas**](https://github.com/1darshankumarsavsani-blip/Vishwas) | Milestone payment tracker for freelancers: client approves on a link, trust score for on-time delivery | Web |
+| [**Bill Splitter**](https://github.com/1darshankumarsavsani-blip/Bill-Splitter) | Split group expenses and see who pays whom | Web |
+| [**Habit Tracker**](https://github.com/1darshankumarsavsani-blip/Habit-Tracker) | Daily habits with streaks and a 7-day view | Web |
+| [**EMI Calculator**](https://github.com/1darshankumarsavsani-blip/EMI-Calculator) | Loan EMI calculator with year-wise schedule | Web |
+
+### 🏆 Certificates
+Google AI Essentials · Google Prompting Essentials · HP LIFE · Anthropic Academy (Claude 101, Claude Code 101, Claude Platform 101, Cowork) · AI Foundation. Proof and verify links are on my portfolio.
+
+### 🔗 Links
+<p align="center">
+  <a href="https://1darshankumarsavsani-blip.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B5B?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/darshankumar-savsani-89a6b1389/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/DARSHAN-CROP"><img src="https://img.shields.io/badge/Org-DARSHAN--CROP-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:1darshankumarsavsani@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ### 🧰 Languages & tools
 <p align="center">
